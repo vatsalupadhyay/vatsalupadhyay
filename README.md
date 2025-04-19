@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vatsal Upadhyay</h1>
+<h1 align="center">Hi 👋, I'm  Vatsal Upadhyay</h1>
 <h3 align="center">Web Developer | Frontend Specialist | React Enthusiast</h3>
 
 <p align="center">
