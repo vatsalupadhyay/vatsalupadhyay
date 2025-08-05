@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vatsal Upadhyay</h1>
-<h3 align="center">MS in Information Technology @ UNC Charlotte | Full Stack Developer | AI-based Web Apps Enthusiast</h3>
+<h3 align="center">MS in Information Technology @ UNC Charlotte '27 | Full Stack Developer | AI-based Web Apps Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/vatsal-upadhyay-54a29b22a">
