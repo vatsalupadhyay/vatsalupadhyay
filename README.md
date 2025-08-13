@@ -78,5 +78,5 @@
 ---
 
 <p align="center">
-  <i>Let's connect and build something impactful together! 🚀</i>
+  <i>Let's connect and build something impactful together! 🚀 </i>
 </p>
