@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **MS in IT @ UNC Charlotte (Fall 2025)**
+- 🎓 **MS in IT @ UNC Charlotte **
 - 💼 **Full Stack Developer Intern @ HackeroX** (React, Flask, Azure Deployment)
 - 🏆 **Hackathon 1st Runner-up** (Amazon Product Sentiment Analysis Web App)
 - 🚀 Passionate about **building AI-powered, scalable web apps**
