@@ -2,7 +2,7 @@
 <h3 align="center">MS in Information Technology @ UNC Charlotte'27 | Full Stack Developer | AI-based Web Apps Enthusiast</h3>
 
 <p align="center   ">
-  <a href="https://linkedin.com/in/vatsal-upadhyay-54a29b22a">
+  <a href="https://www.linkedin.com/in/vatsalup/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>    
   <a href="mailto:vatsalu2003@gmail.com">
